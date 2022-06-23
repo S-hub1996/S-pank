@@ -8,7 +8,7 @@ const clickNo=()=>{
 }
 const toast = useToast({
     position: 'top',
-    title: 'OHH WE ALREADY KNOW!',
+    title: 'love is dumb or dumb is you or you are both❤',
     containerStyle: {
       width: '800px',
       status:'success',
